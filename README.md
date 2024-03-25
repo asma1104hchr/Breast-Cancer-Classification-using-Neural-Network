@@ -30,7 +30,7 @@ The workflow includes:
 
 ## Contributor
 
-This project is created by [Your Name] as part of a tutorial on breast cancer classification using neural networks. For any questions or feedback, feel free to reach out.
+This project is created by Haichour asma as part of a tutorial on breast cancer classification using neural networks. For any questions or feedback, feel free to reach out.
 
 ## References
 
